@@ -30,7 +30,7 @@ function Project() {
       id: 4,
       logo: nodejs,
       name: "Personal Portfolio",
-      url: "https://www.personalportfolio.com",
+      url: "https://portfolio-qpy4.vercel.app/",
     },
     {
       id: 5,
