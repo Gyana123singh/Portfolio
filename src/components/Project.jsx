@@ -13,36 +13,43 @@ function Project() {
       logo: mongoDB,
       name: "Beezinfo",
       url: "https://www.beezinfo.com",
+      content: " a dynamic website providing business insights, tech news, service listing",
     },
+    
     {
       id: 2,
       logo: express,
       name: "Homso.co.in",
       url: "https://www.homso.co.in",
+      content: " Homso is here to provide compassionate, professional  care for your loved ones",
     },
     {
       id: 3,
       logo: reactjs,
       name: "Hotel Restaurant project",
       url: "https://hotel-restaurant-project.vercel.app/",
+      content: " a dynamic website providing business insights, tech news, service listing",
     },
     {
       id: 4,
       logo: nodejs,
       name: "Personal Portfolio",
       url: "https://portfolio-qpy4.vercel.app/",
+      content: " a dynamic website providing business insights, tech news, service listing",
     },
     {
       id: 5,
       logo: python,
       name: "Book Store App",
       url: "https://www.bookstoreapp.com",
+      content: " a dynamic website providing business insights, tech news, service listing",
     },
     {
       id: 6,
       logo: python,
       name: "Github",
       url: "https://github.com/Gyana123singh/Hotel_Restaurant_project",
+      content: " a dynamic website providing business insights, tech news, service listing",
     },
   ];
 
@@ -58,7 +65,7 @@ function Project() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-4 gap-3 my-5 text-center mt-10">
-          {cardItem.map(({ id, logo, name, url }) => (
+          {cardItem.map(({ id, logo, name, url, content }) => (
             <div
               className="md:w-[auto] md:h-[300px] border-[2px] rounded-lg shadow-lg p-1 cursor-pointer hover:scale-95 duration-300"
               key={id}
@@ -74,7 +81,7 @@ function Project() {
               <div>
                 <div className="px-2 font-bold text-xl mb-2">{name}</div>
                 <p className="px-2 text-gray-700">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                 {content}
                 </p>
               </div>
               <div className="px-6 py-4 space-x-3 justify-around">
