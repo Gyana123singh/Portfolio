@@ -54,7 +54,7 @@ function Project() {
       id: 6,
       logo: github,
       name: "Github",
-      url: "https://github.com/dashboard",
+      url: "https://github.com/Gyana123singh/Hotel_Restaurant_project",
       content:
         " a dynamic website providing business insights, tech news, service listing",
     },
