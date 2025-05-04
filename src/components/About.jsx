@@ -16,15 +16,15 @@ function About() {
         </p>
         <br />
         <h1 className="text-green-600 font-semibold text-xl">
-          Education & Training
+          Education
         </h1>
-        <ul className="mt-2">
+        {/* <ul className="mt-2">
           <li className="text-xl">
             1. Post Graduate in Full Stack developer with Mern stack (Mar-2024
             to Sep-2024)
           </li>
           <p>Skyy Skill Acadamy, BBSR</p>
-        </ul>
+        </ul> */}
         <ul className="mt-5">
           <li className="text-xl">
             2. Master In Computer Application(MCA) (2022 to 2024)
@@ -35,19 +35,19 @@ function About() {
         <ul className="mt-5">
           <li className="text-xl">3. Graduation In BSC (2017 to 2020)</li>
           <p>Berhampur University Berhampur</p>
-          <p>CGPA: 7.2</p>
+          <p>CGPA: 7.1</p>
         </ul>
         <ul className="mt-5">
           <li className="text-xl">
-            4. +2 Science (Intermediate) (2015 to 2017)
+            4. +2 Science (Intermediate) (2013 to 2015)
           </li>
           <p>Council Higher Secondary Education (CHSE), Odisha</p>
-          <p>61%</p>
+          <p>60%</p>
         </ul>
         <ul className="mt-5">
           <li className="text-xl">5. 10th </li>
           <p>Board Of Secondary Education, Odisha </p>
-          <p>CGPA: 65%</p>
+          <p>CGPA: 56%</p>
         </ul>
         <br />
         <br />
@@ -66,8 +66,8 @@ function About() {
           Professional Experience
         </h1>
         <ul className="leading-[2.5rem]">
-          <li className="text-xl" >Web Developer (Internship), Beezfusin Pvt.Ltd, Bhubaneswar, Odisha
-          Sep 2024– Still Now</li>
+          <li className="text-xl" >Web Developer, Beezfusion Pvt.Ltd, Bhubaneswar, Odisha
+          OCT 2024– Continuing... </li>
           <p>◦ Developed and maintained full-stack web applications using Html, CSS, Javascript,Bootstrap,Tailwind, React.js, Next.js MongoDB, Express.js, and Node.js.</p>
           <p>◦ Designed and implemented RESTful APIs and integrated third-party services for enhanced functionality.</p>
           <p> ◦ Built responsive and dynamic UI components with React.js, Built reusable and dynamic UI components
