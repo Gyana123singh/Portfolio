@@ -18,13 +18,13 @@ function About() {
         <h1 className="text-green-600 font-semibold text-xl">
           Education
         </h1>
-        {/* <ul className="mt-2">
+        <ul className="mt-2">
           <li className="text-xl">
             1. Post Graduate in Full Stack developer with Mern stack (Mar-2024
             to Sep-2024)
           </li>
           <p>Skyy Skill Acadamy, BBSR</p>
-        </ul> */}
+        </ul>
         <ul className="mt-5">
           <li className="text-xl">
             2. Master In Computer Application(MCA) (2022 to 2024)
@@ -42,7 +42,7 @@ function About() {
             4. +2 Science (Intermediate) (2013 to 2015)
           </li>
           <p>Council Higher Secondary Education (CHSE), Odisha</p>
-          <p>60%</p>
+          <p>74%</p>
         </ul>
         <ul className="mt-5">
           <li className="text-xl">5. 10th </li>

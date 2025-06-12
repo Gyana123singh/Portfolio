@@ -36,7 +36,7 @@ function Home() {
               />
             </div>
             <br />
-            <h1 className="text-2xl">Web Developer</h1>
+            <h1 className="text-2xl">React Developer</h1>
             <p className="text-sm md:text-md text-justify">
               Enthusiastic and detail-oriented Front-end Developer with a strong
               foundation in HTML5, CSS3, JavaScript, Bootstrap, Tailwind, React,
